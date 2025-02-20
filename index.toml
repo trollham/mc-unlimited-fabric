@@ -161,11 +161,6 @@ hash = "8530bb8ab9c96826845acbebf96a0fd136ddacd68e3834c18d717b81b690aca1"
 metafile = true
 
 [[files]]
-file = "mods/create-eureka.pw.toml"
-hash = "611caf8893b12fc228dadfdf8f60bd63dcdd5b06ed0016fceb6db2346312df73"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
