@@ -1,0 +1,13 @@
+name = "Unlimited Fabric"
+author = "trollham"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d27cad95f21c19dcaeaf0b71fbbfd97e36bcbc97c4e9717b854f6b28a4de41db"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.20.1"
