@@ -1,12 +1,12 @@
 name = "Unlimited Fabric"
 author = "trollham"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d27cad95f21c19dcaeaf0b71fbbfd97e36bcbc97c4e9717b854f6b28a4de41db"
+hash = "e2b71e0177768d85163ba701557ec5550d3272a1b62301df24e3f5d35267663c"
 
 [versions]
 fabric = "0.16.10"
