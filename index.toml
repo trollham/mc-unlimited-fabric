@@ -81,6 +81,11 @@ hash = "0b5feeae74fe992084ec5cb12eab3404ddd5054e85c9006f7ba4d65f209de13f"
 metafile = true
 
 [[files]]
+file = "mods/burnt-basic.pw.toml"
+hash = "73cbf47e6b682f6b10a04d27b51e3069b500010a531d427c6959042322174007"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "5ba003768a235ab0d811218191166f9aefa4c9a2509341fbba1efd80e18d3676"
 metafile = true
@@ -311,13 +316,13 @@ hash = "643b6f675134f2b2dcf7601cf895a83dbb9ad56b1433e603ba36c8c1fc6c94bf"
 metafile = true
 
 [[files]]
-file = "mods/glitchcore.pw.toml"
-hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
+file = "mods/glass-armor.pw.toml"
+hash = "bce38022ee79edf30784b14039e76eabf3b4b6507f149c97972b2a6841676944"
 metafile = true
 
 [[files]]
-file = "mods/gravestones.pw.toml"
-hash = "e02e297f397621e1c0d17f6853d5176e23343609e978ac3fd35f1a73d00d509c"
+file = "mods/glitchcore.pw.toml"
+hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
 metafile = true
 
 [[files]]
@@ -378,6 +383,11 @@ metafile = true
 [[files]]
 file = "mods/kiwi.pw.toml"
 hash = "023f796abcac1d1719e04bca0767d9b90814d98176fca70c8b8ac0ad39b7f769"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
 metafile = true
 
 [[files]]
@@ -543,6 +553,16 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "7377ce5957f537b30a66d18bf5ae6306c8c9640fd2f2ba757c0e5da4598992b6"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "e962db225d25099fbfb4729549dd053f3e3e222931fe8dc314e656e3efc39a89"
 metafile = true
 
 [[files]]

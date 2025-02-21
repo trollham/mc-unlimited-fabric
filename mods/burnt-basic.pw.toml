@@ -1,0 +1,13 @@
+name = "Burnt Basic"
+filename = "burnt_basic-1.0.2_Fabric_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aclfPzta/versions/elbbcJLH/burnt_basic-1.0.2_Fabric_1.20.1.jar"
+hash-format = "sha512"
+hash = "57d601ccc50418af0d2f1d37926437a9f3ba392aeea726273e73d172505d75fc71df55da76754c6a2f2d7a062e0453f6d25b8e97368884935f497b89d5ac98f6"
+
+[update]
+[update.modrinth]
+mod-id = "aclfPzta"
+version = "elbbcJLH"
