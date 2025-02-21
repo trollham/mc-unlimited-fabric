@@ -301,11 +301,6 @@ hash = "570a163f46abcf6b914985c9cfb05c7a4849dc011726ae221b65af998a56062a"
 metafile = true
 
 [[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "7c1df77db24422fd03b77faca8e1752196021bdd53f71e9174509ea4ef2a7764"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0e99c9b4a524d9cb74553f7b3ed331081031fef9d3c0c437f3734fbd9a350a2d"
 metafile = true
@@ -553,16 +548,6 @@ metafile = true
 [[files]]
 file = "mods/productive-villagers.pw.toml"
 hash = "21d124728114bf2162251aee0fd303565a5f0671bf1126cf3deef911865496b5"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled-create.pw.toml"
-hash = "6a0e0360ed2eaed1e6ff40c705e81725fe530cd5b6fb0dbf81e03d1f05a14317"
-metafile = true
-
-[[files]]
-file = "mods/rechiseled.pw.toml"
-hash = "d2dc9dfea0cc21063ccd2d3536d1caf26f4d71afa0c8fa812e416d271324f2e1"
 metafile = true
 
 [[files]]
