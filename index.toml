@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CHANGELOG.md"
+hash = "3bb916f758ae7f93bb7c7bf8208c48693496ed19146c459a3fae14fa133e9b15"
+
+[[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "f71ba14df635b8bfe3f8fcc4663876694d180a7cc9226aa5adef93df4994889e"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "6548800a7f3043473a8ea5f0dd07231d890344dd9bf117ef7ea0e98f1057f0fe"
 metafile = true
@@ -47,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2492a7266fab4c2ff411612180974b98510afb66a18e640f4de63ad615dd1e9e"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
@@ -78,6 +86,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "0b5feeae74fe992084ec5cb12eab3404ddd5054e85c9006f7ba4d65f209de13f"
+metafile = true
+
+[[files]]
+file = "mods/brainier-bees.pw.toml"
+hash = "dd63a17fad10b334b54fc1fe8b433c0f2a145cab7c9fb3d6ac31006acf45471f"
 metafile = true
 
 [[files]]
@@ -406,6 +419,16 @@ hash = "62dcbd50ca504de26da23305b6e1578298b6cfd14fb98118fcd471cf128d4337"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "37421d14755957856ddafed04020b2b23f902f6f4c410fb5bdfc956959f99fba"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-addon-compat.pw.toml"
+hash = "7c09eade43030f265996b88e20c8f80754deea122e9bcaf5095b8d00135c182a"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-bakery-farmcharm-compat.pw.toml"
 hash = "1e1c072884e98d56434f75a2d1fcd2882e9c3a54f59b696943f658e2266ca9b0"
 metafile = true
@@ -568,6 +591,11 @@ metafile = true
 [[files]]
 file = "mods/productive-villagers.pw.toml"
 hash = "21d124728114bf2162251aee0fd303565a5f0671bf1126cf3deef911865496b5"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "974fc9a82d211049b57b4d9dd0b7bb2e203d5a9b88d20a3f8ce2c3a16ee4426b"
 metafile = true
 
 [[files]]
