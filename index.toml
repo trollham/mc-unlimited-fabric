@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "3bb916f758ae7f93bb7c7bf8208c48693496ed19146c459a3fae14fa133e9b15"
+hash = "34dfc0a908eaf8ec12af09a6314bad201b4957c95e0e41d45884a62ba2922c1d"
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
