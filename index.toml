@@ -2,7 +2,23 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "34dfc0a908eaf8ec12af09a6314bad201b4957c95e0e41d45884a62ba2922c1d"
+hash = "eaea0022f3ccf3ad78f6831405e1a38e3beecec740ec3de9e94886c0d443c91f"
+
+[[files]]
+file = "config/creeperoverhaul.jsonc"
+hash = "1aaa0636edbb0e88a820b29b7f71021dab797c16c121687623aaabbde73eea5f"
+
+[[files]]
+file = "config/gravestones.json"
+hash = "0550c5067ab8896fcf8d4d8452097de07dd74024fe02ba41e14af5dca7768201"
+
+[[files]]
+file = "config/sereneseasons/fertility.toml"
+hash = "722f7545a5a592f0aed25ae8dd0a4f53f7abaf0bb53da96417d87e9096e75631"
+
+[[files]]
+file = "config/sereneseasons/seasons.toml"
+hash = "d018ef85f3d421717c26e16dad92da0906ee3ca554cd66e93838a5823caf31d5"
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
@@ -81,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/better-combat.pw.toml"
 hash = "9f92d063b29316733455bcf5ca2c0f77f31a479d9c0ceb8c3557da177691131c"
+metafile = true
+
+[[files]]
+file = "mods/betterdays.pw.toml"
+hash = "1fa7a2a75ea8e7862322706116139c8e92c52fec5fd76b8d7d004e61102bc831"
 metafile = true
 
 [[files]]
@@ -369,8 +390,8 @@ hash = "b9fa4052f55fb11d52dcd0825cfa1b0341b741b1fe9029fbcc79abede25ccf56"
 metafile = true
 
 [[files]]
-file = "mods/ironchests.pw.toml"
-hash = "fc3a2ab77cbe31040c59d1ba8cbd5283a9e6d2603ccf64784bd33205d4da81f1"
+file = "mods/iris.pw.toml"
+hash = "956298b1bbab6d8bfb5074b169d8d24d04d688182edf8af885bbefc6cc1d9c27"
 metafile = true
 
 [[files]]
@@ -424,43 +445,13 @@ hash = "37421d14755957856ddafed04020b2b23f902f6f4c410fb5bdfc956959f99fba"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-addon-compat.pw.toml"
-hash = "7c09eade43030f265996b88e20c8f80754deea122e9bcaf5095b8d00135c182a"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-bakery-farmcharm-compat.pw.toml"
-hash = "1e1c072884e98d56434f75a2d1fcd2882e9c3a54f59b696943f658e2266ca9b0"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-beachparty.pw.toml"
 hash = "43b760510cf39c9a0635a56154e5ac1c4bec5a7c229e323ada491abaf82d8ec1"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-brewery-farmcharm-compat.pw.toml"
-hash = "e184bea6c376d34b3df9271852bd0bd424f6dbe1f8d64832d4a5ac8c28e2d4f1"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-candlelight-farmcharm-compat.pw.toml"
-hash = "b335ba31a6b89f856098ef4f8108866bcaab07e3a4024c4ca815614c0357fca9"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-farm-charm.pw.toml"
-hash = "ab43867954375dfa066d8986b63b7458219718f4078eee60cdf8fbe38f86db48"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-herbalbrews.pw.toml"
 hash = "fdc7f6b85ec3f7b3404a8dba82244284561a27543c027163286544312582d889"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-meadow.pw.toml"
-hash = "e2eb010de07b4d00eed75226b6000cec7fde67ba811a28c5051f877651a05aed"
 metafile = true
 
 [[files]]

@@ -1,5 +1,23 @@
 # Changelog
 
+## v1.1.0
+
+### Added
+* Iris Shaders
+  * No more needing to manually reinstall Iris for your shaders when things update, yippeeee
+* Better Days
+  * Increases the length of days. Days will now be 20 minutes while nights stay at 10.
+
+### Changed
+* Serene Seasons
+  * Updated day length for season calculation to not get out of sync with Better Days.
+
+### Removed
+* Iron Chests
+  * Iron Chest recipes conflicted with Sophisticated Storage, which is a more feature-rich version of Iron Chests anyway.
+* Let's Do Bakery, Brewery, Candlelight, Farm&Charm, Meadow
+  * These all conflicted with various Farmer's Delight mods and other mods which touched wool. 
+
 ## v1.0.10
 
 ### Added
