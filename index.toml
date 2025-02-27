@@ -5,6 +5,10 @@ file = "CHANGELOG.md"
 hash = "eaea0022f3ccf3ad78f6831405e1a38e3beecec740ec3de9e94886c0d443c91f"
 
 [[files]]
+file = "config/betterdays-common.toml"
+hash = "5c4c45353ec65d7bfd852891d8f54fed2cf7deac2ffcb0549a0b221ab30aafee"
+
+[[files]]
 file = "config/creeperoverhaul.jsonc"
 hash = "1aaa0636edbb0e88a820b29b7f71021dab797c16c121687623aaabbde73eea5f"
 
@@ -18,7 +22,7 @@ hash = "722f7545a5a592f0aed25ae8dd0a4f53f7abaf0bb53da96417d87e9096e75631"
 
 [[files]]
 file = "config/sereneseasons/seasons.toml"
-hash = "d018ef85f3d421717c26e16dad92da0906ee3ca554cd66e93838a5823caf31d5"
+hash = "197d1c81d1d15ad108305acaf15590666b9d7fd7adba103be5391b568f3545a1"
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
