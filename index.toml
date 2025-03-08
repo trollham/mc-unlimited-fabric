@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "eaea0022f3ccf3ad78f6831405e1a38e3beecec740ec3de9e94886c0d443c91f"
+hash = "05f126e8d4a3a2c68920eadf14356faa434eae0e7dfdf68003e48dec90bf92fb"
 
 [[files]]
 file = "config/betterdays-common.toml"
@@ -59,8 +59,13 @@ hash = "6738823249960d898563d1f715f9db5eab9164ed7af1bf40a3328e93e6e0129a"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "5b47d4f39f079e66823b7e9890edd4a065a3770fe124f6d4b80c96aa7412bd0a"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
-hash = "375d3edef0d8974ea803f2935fcc78a52d536e5a74f18f26aa67ddd316c5f224"
+hash = "85fc3f866a8f0c3b1b208c830d0fb737cc13f9fe3928a4ca5f005fdadfc6d175"
 metafile = true
 
 [[files]]
@@ -85,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "bf9a89d3fafcb9358a15bed12864f02f340531048b07e983bde14cf7a5a7852f"
+hash = "e022ef05f30d75259fee46cfaca11942ba73b8cc7accf0cc26a8a795088d78d1"
 metafile = true
 
 [[files]]
@@ -135,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisel-reborn.pw.toml"
-hash = "1191c5d3c6894353e63b2fbdc5c395e2a7759e9706c327f51895e0ab9386bfe2"
+hash = "281e2429b2f37421799b6ff4613c8a783df5e008c2864f91aa862418ff86f272"
 metafile = true
 
 [[files]]
@@ -160,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a7031f5a9c30d6306bb72b0d0b4e5c1b06715cccb5cac576b731777a250612c5"
+hash = "47bfb455847e99dd0555d3ced5ce3c48b927a93f06103bd8e6299454a03a490e"
 metafile = true
 
 [[files]]
@@ -230,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "6e66d8e47c8945fda0a376307ad2baa56bfdf7b02122251b46dfaae3fc5789f6"
+hash = "1dcb516365d51f19d06743589864685f7c02c3476229a6b4af98f1a0d7ab8bc0"
 metafile = true
 
 [[files]]
@@ -290,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "c3bf7d6d25260b023f8cd2906527bf2ddfe36eb7929894ac0ae6d61abe2328cd"
+hash = "8dc45c624a42cf37b923957c9e75c27c26e28e6b4ecee63d0ebe82b41d2e416c"
 metafile = true
 
 [[files]]
@@ -385,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
+hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
 
 [[files]]
@@ -395,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "956298b1bbab6d8bfb5074b169d8d24d04d688182edf8af885bbefc6cc1d9c27"
+hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
@@ -450,7 +455,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-beachparty.pw.toml"
-hash = "43b760510cf39c9a0635a56154e5ac1c4bec5a7c229e323ada491abaf82d8ec1"
+hash = "e07373fddb7ef2f73b703409e2f0b47d1b0c055224527caff009dbb7ecb10553"
 metafile = true
 
 [[files]]
@@ -465,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/lets-do-vinery.pw.toml"
-hash = "95b7d4d045a8e69dcfce552bcf72173ad0e526cae96ceaafa28e209fbf93b5cf"
+hash = "62a52fffcc4b1a84d176ee33a16f39625bde634c95e63675fa7a5cd4d6fc5199"
 metafile = true
 
 [[files]]
@@ -525,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "d5204a9b2816324062d061c7d47e37558fd4c05a9d5f87509874764f2ba7171d"
+hash = "7d3f6050aa325263ac720038e99aa72ba6bb464601dfac5a956d48659a2ebba2"
 metafile = true
 
 [[files]]
@@ -590,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "974fc9a82d211049b57b4d9dd0b7bb2e203d5a9b88d20a3f8ce2c3a16ee4426b"
+hash = "f3bfb5abad2940532944e9012d1a2f36079fd4d10bf4dfea99a76b4bf717a2ee"
 metafile = true
 
 [[files]]
@@ -600,7 +605,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
-hash = "bc01e49e5a2d8d32f25c29d63f32bac189ea645a54c40ffc85e6db54cc3806b2"
+hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
 metafile = true
 
 [[files]]
@@ -620,12 +625,12 @@ metafile = true
 
 [[files]]
 file = "mods/serene-seasons.pw.toml"
-hash = "d5d7b7d8ddc60eac234033a30c8980a6d2d1ea07a0da45faabf82026432799a8"
+hash = "a7f84fa3501436192c721baf79147962266f3f4a631fbe20109d9df89ccfae95"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d7062507251f577355a3c3e4fd3bc33ea9ac0e74ad0da2c8f0eb6c9b9c182b99"
+hash = "ce99f1de3591cde7ff20a2edfcd75f36d85c364ca5e169cbd92c4d9cff65e840"
 metafile = true
 
 [[files]]
@@ -635,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
-hash = "95a81f1a568965dcad18b754354581975ce5c9491b21a6276f107561fcc75c13"
+hash = "39007b6020d38eda9bf15aada753b67390b326c2a43e122f1bf28d4df812d2af"
 metafile = true
 
 [[files]]
@@ -650,7 +655,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
+hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]
@@ -730,7 +735,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "1d75306cc168b5dac400b259490d4259739c862d11431ec34a4f967637aecf36"
+hash = "547c1eec5baf45c9c50f4c6cfd20b8f2565c500345c1ae1ce15fedb3c9b8d1d2"
 metafile = true
 
 [[files]]
