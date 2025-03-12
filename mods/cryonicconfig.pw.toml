@@ -1,0 +1,11 @@
+name = "Cryonic Config"
+filename = "cryonicconfig-fabric-1.0.0+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oEhQIkOs/versions/8YNy3a8m/cryonicconfig-fabric-1.0.0%2Bmc1.20.1.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha512"
+hash = "e4cddd6d303162defc640151c06088795149ff5f4890a19cc0eea35636a5273bcf8bdc1748b165445612683a295e4a0d42235ce91254047a93ddfc97b8720327"

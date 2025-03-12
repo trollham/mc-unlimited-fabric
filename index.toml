@@ -234,6 +234,11 @@ hash = "20e6e39afc3881c4d6530f33208ecf55014c2dc420f742c3fa2ca450c9b110af"
 metafile = true
 
 [[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "675296e550270b01a7a73b837a405a649f16f08aaacc43c8f867b662dc575e94"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "1dcb516365d51f19d06743589864685f7c02c3476229a6b4af98f1a0d7ab8bc0"
 metafile = true
