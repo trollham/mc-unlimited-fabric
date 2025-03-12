@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "05f126e8d4a3a2c68920eadf14356faa434eae0e7dfdf68003e48dec90bf92fb"
+hash = "f6dd690ee309b4cb6e2ecdfcf29d891d9329ab03ad90e4e65d7f3f3428d76a80"
 
 [[files]]
 file = "config/betterdays-common.toml"
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "5f6c35eca0fde396c1ece31de3c4f360bfbac90a3654f4cd1bf88d275c136908"
+hash = "f68c4aa11159e9eefb3e1df5d67855fbc382b997bbce7e35e142039207245c83"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "570a163f46abcf6b914985c9cfb05c7a4849dc011726ae221b65af998a56062a"
+hash = "49bddfada8f0bfed66a69f2f5cf22be3a7028b2d4079c25b3784e929277ef37f"
 metafile = true
 
 [[files]]
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
-hash = "dc8402861f6a016a0e2055cf40f6ec783a4d5a3dac48f777ae7d116f1bac4fe1"
+hash = "6a0856cf4491d94a913d588d1d9e6feb1b954a0f1127d5f6736d23b71b903d70"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "9189950e68af278daaef951d8ef23b06f567f27d8c9f50df898ac0117d35c93c"
+hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
 
 [[files]]
@@ -530,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "7d3f6050aa325263ac720038e99aa72ba6bb464601dfac5a956d48659a2ebba2"
+hash = "af92cc899c8949a238f94889f0b075003af7402a01d7c9534ec7f829b25ac812"
 metafile = true
 
 [[files]]
@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "f3bfb5abad2940532944e9012d1a2f36079fd4d10bf4dfea99a76b4bf717a2ee"
+hash = "3e2a1448933199b681df01a7dbf50fb13bbd95e7d79d3e7f49dcc13f739ceaab"
 metafile = true
 
 [[files]]
@@ -705,7 +705,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "fadb1aaba6c522a2cfccbc04366ebbf49bcfc336ea1f96f3ff59781ce8b94d2d"
+hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true
 
 [[files]]

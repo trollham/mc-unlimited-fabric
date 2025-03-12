@@ -12,10 +12,10 @@
 * Mod updates: 
 Serene Seasons: SereneSeasons-fabric-1.20.1-9.1.0.0.jar -> SereneSeasons-fabric-1.20.1-9.1.0.1.jar
 Resourceful Config: resourcefulconfig-fabric-1.20.1-2.1.2.jar -> resourcefulconfig-fabric-1.20.1-2.1.3.jar
-Moonlight Lib: moonlight-1.20-2.13.67-fabric.jar -> moonlight-1.20-2.13.71-fabric.jar
+Moonlight Lib: moonlight-1.20-2.13.67-fabric.jar ->moonlight-1.20-2.13.72-fabric.jar
 Snow! Real Magic! ⛄: SnowRealMagic-1.20.1-Fabric-10.5.4.jar -> SnowRealMagic-1.20.1-Fabric-10.6.1.jar
 Indium: indium-1.0.34+mc1.20.1.jar -> indium-1.0.36+mc1.20.1.jar
-Puzzles Lib: PuzzlesLib-v8.1.25-1.20.1-Fabric.jar -> PuzzlesLib-v8.1.28-1.20.1-Fabric.jar
+Puzzles Lib: PuzzlesLib-v8.1.25-1.20.1-Fabric.jar -> PuzzlesLib-v8.1.29-1.20.1-Fabric.jar
 Waystones: waystones-fabric-1.20.1-14.1.9.jar -> waystones-fabric-1.20.1-14.1.11.jar
 Iris Shaders: iris-1.7.5+mc1.20.1.jar -> iris-1.7.6+mc1.20.1.jar
 Entity Culling: entityculling-fabric-1.7.2-mc1.20.1.jar -> entityculling-fabric-1.7.3-mc1.20.1.jar
@@ -28,6 +28,11 @@ Collective: collective-1.20.1-7.92.jar -> collective-1.20.1-7.94.jar
 Simple Voice Chat: voicechat-fabric-1.20.1-2.5.27.jar -> voicechat-fabric-1.20.1-2.5.28.jar
 Balm: balm-fabric-1.20.1-7.3.17.jar -> balm-fabric-1.20.1-7.3.18.jar
 Sodium: sodium-fabric-0.5.11+mc1.20.1.jar -> sodium-fabric-0.5.13+mc1.20.1.jar
+Distant Horizons: DistantHorizons-2.2.1-a-1.20.1-forge-fabric.jar -> DistantHorizons-fabric-forge-2.3.0-b-1.20.1.jar
+Friends & Foes (Fabric/Quilt): friendsandfoes-fabric-mc1.20.1-3.0.7.jar -> friendsandfoes-fabric-mc1.20.1-3.0.8.jar
+TerraBlender: TerraBlender-fabric-1.20.1-3.0.1.7.jar -> TerraBlender-fabric-1.20.1-3.0.1.10.jar
+Immersive Melodies: immersive_melodies-0.3.0+1.20.1-fabric.jar -> immersive_melodies-0.4.0+1.20.1-fabric.jar
+Jade 🔍: Jade-1.20-Fabric-11.12.3.jar -> Jade-1.20-Fabric-11.13.1.jar
 
 ## v1.1.1
 
